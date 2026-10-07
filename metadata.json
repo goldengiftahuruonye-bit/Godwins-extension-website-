@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Forma — Architectural Academy & Author Programs",
+  "description": "Gallery-grade architectural practice and digital education academy offering author programs in interior visualization, residential drafting, and bespoke spatial design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
