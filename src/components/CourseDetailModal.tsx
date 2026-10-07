@@ -41,7 +41,7 @@ export const CourseDetailModal: React.FC<CourseDetailModalProps> = ({
             <span aria-hidden="true">·</span>
             <span>{course.category}</span>
             <span aria-hidden="true">·</span>
-            <span>{course.tierLabel}</span>
+            <span>{course.formatBadge}</span>
           </div>
 
           <button
